@@ -4,6 +4,7 @@ doesnt have a mac key that means it will detect it as as malware and im not tryi
 completey runs in a html file just in dmg form with quickdrag.
 has many bugs i know its just a mac testing thing doesnt search things just shows a dancing parrot when you searching somthing and its called gowoleito the ito part is for small.
 
+btw the html is universal across system that support html nothing to anything past windows 7 Mac OS X 10.7 (Lion) 
 
 
 
